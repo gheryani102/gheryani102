@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohammed Gheryani 👋</h1>
 
-<!--
-**gheryani102/gheryani102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Senior NLP & LLM Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Generative AI • RAG Systems • AI Agents • Arabic NLP
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a Generative AI Engineer specializing in building production-ready AI systems.
+
+My main areas of expertise include:
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Multi-Agent Systems
+- Arabic and Multilingual NLP
+- LLM Evaluation and Optimization
+- Production AI APIs and Pipelines
+
+Most of my production work has been developed for private companies and cannot be published publicly.
+
+I am currently preparing my personal project **sudo101** for its public launch.
+
+---
+
+## Technical Stack
+
+- Python
+- FastAPI
+- LangChain
+- LangGraph
+- LlamaIndex
+- Hugging Face
+- PyTorch
+- PostgreSQL and pgvector
+- Docker
+- GitHub Actions
+- AWS and GCP
+
+---
+
+## Currently Working On
+
+### sudo101
+
+A personal AI product currently under active development.
+
+Public demo and technical documentation are coming soon.
+
+---
+
+## Contact
+
+- Email: gheryani101@gmail.com
+- LinkedIn: Add your LinkedIn link here
