@@ -57,4 +57,7 @@ Public demo and technical documentation are coming soon.
 ## Contact
 
 - Email: gheryani101@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: www.linkedin.com/in/gheryani101
+- Facebook: https://www.facebook.com/mohamed.k.al.gheryani
+
+
