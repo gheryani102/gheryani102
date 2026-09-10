@@ -24,8 +24,6 @@ My main areas of expertise include:
 
 Most of my production work has been developed for private companies and cannot be published publicly.
 
-I am currently preparing my personal project **sudo101** for its public launch.
-
 ---
 
 ## Technical Stack
